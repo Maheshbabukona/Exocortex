@@ -22,20 +22,16 @@ Most knowledge tools collapse these into a single surface—documents or chat se
 
 ## Core Architecture
 
-┌────────────────────────────┐
-│ Cognitive Spaces │
-│ (persistent working memory)│
-└────────────▲───────────────┘
+Cognitive Spaces
+(persistent working memory)
+▲
 │
-┌────────────┴───────────────┐
-│ EXOCORE │
-│ (retrieval + reasoning) │
-└────────────▲───────────────┘
+EXOCORE
+(retrieval + reasoning)
+▲
 │
-┌────────────┴───────────────┐
-│ Knowledge Artifacts │
-│ (PDFs, notes, web content) │
-└────────────────────────────┘
+Knowledge Artifacts
+(PDFs, notes, web content)
 
 
 ### Knowledge Artifacts  
